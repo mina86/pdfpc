@@ -651,6 +651,9 @@ $ texdoc pdfpc
 .RE
 
 .SH BUGS
+.PP
+For a list of known bugs, see
+.URL https://github.com/pdfpc/pdfpc/blob/master/FAQ.rst "the FAQ" .
 
 .PP
 Bugs can be reported at
